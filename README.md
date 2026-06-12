@@ -57,7 +57,8 @@ Portfolio-Website/
 ├── index.html
 ├── style.css
 ├── script.js
-├── ritesh.jpg
+├── Screenshots
+    ├── ritesh.jpg
 └── README.md
 ```
 
