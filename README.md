@@ -6,7 +6,7 @@ This project was created as part of the **Full Stack Development Internship Prog
 
 ---
 
-## 📌 Internship Information
+## 📌 Internship Information 
 
 **Organization:** Saiket Systems
 
